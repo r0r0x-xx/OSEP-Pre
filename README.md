@@ -80,7 +80,7 @@ https://support.microsoft.com/en-us/office/automatically-run-a-macro-when-openin
 
 Working Windows API in VBA: https://www.aeternus.sg/how-to-use-windows-api-in-vba/ 
 
-Shellcode in macro: https://www.scriptjunkie.us/2012/01/direct-shellcode-execution-in-ms-office-macros/
+Powershell Shellcode: https://www.powershellgallery.com/packages/PowerSploit/1.0.0.0/Content/CodeExecution%5CInvoke-Shellcode.ps1
 
 Code Execution in VBA Macro: https://www.bitdam.com/2018/05/22/propertybomb-an-old-new-technique-for-arbitrary-code-execution-in-vba-macro/
 
