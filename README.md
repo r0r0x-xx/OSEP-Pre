@@ -7,13 +7,13 @@ Breaching Defenses)
 This compilation of material is very much influenced by the nullgore and more!
 
 
-             ########    #####   ########    #####   ##     ##         ##     ## ##     ## 
-             ##     ##  ##   ##  ##     ##  ##   ##   ##   ##           ##   ##   ##   ##  
-             ##     ## ##     ## ##     ## ##     ##   ## ##             ## ##     ## ##   
-             ########  ##     ## ########  ##     ##    ###               ###       ###    
-             ##   ##   ##     ## ##   ##   ##     ##   ## ##             ## ##     ## ##   
-             ##    ##   ##   ##  ##    ##   ##   ##   ##   ##           ##   ##   ##   ##  
-             ##     ##   #####   ##     ##   #####   ##     ## ####### ##     ## ##     ## 
+             ########    #####   ########    #####   ##     ##  
+             ##     ##  ##   ##  ##     ##  ##   ##   ##   ##   
+             ##     ## ##     ## ##     ## ##     ##   ## ##      
+             ########  ##     ## ########  ##     ##    ###        
+             ##   ##   ##     ## ##   ##   ##     ##   ## ##      
+             ##    ##   ##   ##  ##    ##   ##   ##   ##   ##     
+             ##     ##   #####   ##     ##   #####   ##     ## 
              
              
              
@@ -38,4 +38,4 @@ This compilation of material is very much influenced by the nullgore and more!
 * [Active Directory Exploitation](#Active Directory Exploitation)
 
 
-#Programming languages
+## Programming languages
