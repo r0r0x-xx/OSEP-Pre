@@ -52,3 +52,16 @@ PowerShel: https://resources.infosecinstitute.com/topic/powershell-for-pentester
 C#: https://www.youtube.com/watch?v=GhQdlIFylQ8
 
 ## Operating System
+
+### Win32 API's
+
+Offensive P/Invoke: https://posts.specterops.io/offensive-p-invoke-leveraging-the-win32-api-from-managed-code-7eef4fdef16d
+Process Injection: https://rastamouse.me/blog/process-injection-dinvoke/
+Wiki for .NET developers: https://www.pinvoke.net/
+
+### Windows Registry
+
+Win register: https://docs.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
+
+
+
