@@ -68,14 +68,23 @@ Win register: https://docs.microsoft.com/en-us/troubleshoot/windows-server/perfo
 ## Client Side Code Execution 
 
 Staged VS Stageless handlers (Payloads): https://buffered.io/posts/staged-vs-stageless-handlers/
+
 HTML Smuggling: https://outflank.nl/blog/2018/08/14/html-smuggling-explained/
+
 Embed in HTML: https://github.com/Arno0x/EmbedInHTML
+
 Macro Malware: https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/macro-malware
+
 Automatically Macro: https://support.microsoft.com/en-us/office/automatically-run-a-macro-when-opening-a-workbook-1e55959b-e077-4c88-a696-c3017600db44
+
 Working Windows API in VBA: https://www.aeternus.sg/how-to-use-windows-api-in-vba/ || https://renenyffenegger.ch/notes/development/languages/VBA/Win-API/index
+
 Shellcode in macro: https://www.scriptjunkie.us/2012/01/direct-shellcode-execution-in-ms-office-macros/
+
 Arbitrary Code Execution in VBA Macro: https://www.bitdam.com/2018/05/22/propertybomb-an-old-new-technique-for-arbitrary-code-execution-in-vba-macro/
+
 MSBuild Generator: https://github.com/infosecn1nja/MaliciousMacroMSBuild
+
 PowerShell & Windows API: https://devblogs.microsoft.com/scripting/use-powershell-to-interact-with-the-windows-api-part-1/
 
   
