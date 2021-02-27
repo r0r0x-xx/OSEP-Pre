@@ -40,3 +40,15 @@ This compilation of material is very much influenced by nullgore (GIT) and more!
 
 
 ## Programming languages
+
+For this certification it is very important to have a knowledge base in the following programming languages:
+
+Bash: https://www.youtube.com/watch?v=smbeKPDVs2I 
+
+Python: https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU
+
+PowerShel: https://resources.infosecinstitute.com/topic/powershell-for-pentesters-part-1-introduction-to-powershell-and-cmdlets/ 
+
+C#: https://www.youtube.com/watch?v=GhQdlIFylQ8
+
+## Operating System
