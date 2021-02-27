@@ -53,6 +53,7 @@ C#: https://www.youtube.com/watch?v=GhQdlIFylQ8
 
 Introduction to VBA: https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office
 
+
 ## Operating System
 
 Win32 API's
@@ -66,6 +67,7 @@ Wiki for .NET developers: https://www.pinvoke.net/
 Windows Registry
 
 Win register: https://docs.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
+
 
 ## Client Side Code Execution 
 
@@ -110,6 +112,7 @@ Payload Creation and Obfuscation: https://github.com/tyranid/DotNetToJScript
 
 SharpShooter: https://github.com/mdsecactivebreach/SharpShooter
 
+
 ## Process Injection and Migration
 
 Process Injection: 
@@ -121,7 +124,7 @@ DLL Injection:
 
 http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html
 
-\https://medium.com/bug-bounty-hunting/dll-injection-attacks-in-a-nutshell-71bc84ac59bd
+https://medium.com/bug-bounty-hunting/dll-injection-attacks-in-a-nutshell-71bc84ac59bd
 
 
 Reflective DLL Injection: https://github.com/stephenfewer/ReflectiveDLLInjection
@@ -130,6 +133,73 @@ DLL Injection via PowerShell: https://clymb3r.wordpress.com/2013/04/06/reflectiv
 
 Process Hollowing: https://gist.github.com/smgorelik/9a80565d44178771abf1e4da4e2a0e75
 
+
+## Introduction to Antivirus Evasion
+
+Metasploit Encryptors: https://blog.rapid7.com/2019/11/21/metasploit-shellcode-grows-up-encrypted-and-authenticated-c-shells/
+
+Payload Encryption: https://sevrosecurity.com/2019/05/25/bypass-windows-defender-with-a-simple-shell-loader/
+
+
+## Advanced Antivirus Evasion
+
+Antiscan.me: https://antiscan.me/
+
+ASB Bbypass:
+
+https://rastamouse.me/blog/asb-bypass-pt2/
+https://rastamouse.me/blog/asb-bypass-pt3/
+https://rastamouse.me/blog/asb-bypass-pt4/
+
+
+## Application Whitelisting
+
+Intro: https://searchsecurity.techtarget.com/definition/application-whitelisting
+
+Bypasses: https://github.com/api0cradle/UltimateAppLockerByPassList
+
+
+## Bypassing Network Filters
+
+Domain Fronting: 
+
+https://attack.mitre.org/techniques/T1090/004/
+
+https://medium.com/@malcomvetter/simplifying-domain-fronting-8d23dcb694a0
+
+DNS Tunneling
+
+https://www.paloaltonetworks.com/cyberpedia/what-is-dns-tunneling
+
+https://unit42.paloaltonetworks.com/dns-tunneling-how-dns-can-be-abused-by-malicious-actors/
+
+
+## Linux Post-Exploitation
+
+Command List: https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
+
+
+## Kiosk Breakouts
+
+Kiosk Breakouts / Attacks: https://www.trustedsec.com/blog/kioskpos-breakout-keys-in-windows/
+
+Kiosk Windows: https://www.engetsu-consulting.com/blog/kiosk-breakout-windows
+
+Shared DLL Hijacking: : https://www.boiteaklou.fr/Abusing-Shared-Libraries.html
+
+
+## Windows Credentials
+
+MITRE: https://attack.mitre.org/tactics/TA0006/
+
+SAM Dump: https://www.hackingarticles.in/credential-dumping-sam/
+
+Hardening the Local Admin Account (LAPS):
+
+https://rastamouse.me/blog/laps-pt1/
+https://rastamouse.me/blog/laps-pt2/
+
+LAPSPasswords: https://github.com/kfosaaen/Get-LAPSPasswords
 
 
 
