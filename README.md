@@ -58,7 +58,9 @@ Introduction to VBA: https://docs.microsoft.com/en-us/office/vba/library-referen
 Win32 API's
 
 Offensive P/Invoke: https://posts.specterops.io/offensive-p-invoke-leveraging-the-win32-api-from-managed-code-7eef4fdef16d
+
 Process Injection: https://rastamouse.me/blog/process-injection-dinvoke/
+
 Wiki for .NET developers: https://www.pinvoke.net/
 
 Windows Registry
