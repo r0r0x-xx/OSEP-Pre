@@ -110,8 +110,24 @@ Payload Creation and Obfuscation: https://github.com/tyranid/DotNetToJScript
 
 SharpShooter: https://github.com/mdsecactivebreach/SharpShooter
 
-## Process-Injection-and-Migration
+## Process Injection and Migration
 
+Process Injection: 
+
+https://github.com/3xpl01tc0d3r/ProcessInjection
+https://rastamouse.me/blog/process-injection-dinvoke/
+
+DLL Injection: 
+
+http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html
+https://medium.com/bug-bounty-hunting/dll-injection-attacks-in-a-nutshell-71bc84ac59bd
+
+
+Reflective DLL Injection: https://github.com/stephenfewer/ReflectiveDLLInjection
+
+DLL Injection via PowerShell: https://clymb3r.wordpress.com/2013/04/06/reflective-dll-injection-with-powershell/
+
+Process Hollowing: https://gist.github.com/smgorelik/9a80565d44178771abf1e4da4e2a0e75
 
 
 
