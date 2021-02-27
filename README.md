@@ -90,7 +90,19 @@ MSBuild Generator: https://github.com/infosecn1nja/MaliciousMacroMSBuild
 
 PowerShell & Windows API: https://devblogs.microsoft.com/scripting/use-powershell-to-interact-with-the-windows-api-part-1/
 
-  
+PowerSploit: https://github.com/PowerShellMafia/PowerSploit
+
+PowerShell in Memory: https://isc.sans.edu/forums/diary/Fileless+Malicious+PowerShell+Sample/23081/
+
+DelegateType Reflection: https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/how-to-hook-up-a-delegate-using-reflection
+
+Get Delegate: https://www.powershellgallery.com/packages/poke/1.0.0.2/Content/delegate.ps1
+
+Proxy-Aware PowerShell Communications: https://powershell.org/forums/topic/set-dsclocalconfigurationmanager-and-proxy-awareness/
+
+PowerShell Proxy with Authentication: https://medium.com/river-yang/powershell-working-behind-a-proxy-with-authentication-eb68a337f222
+
+
 
 
 
