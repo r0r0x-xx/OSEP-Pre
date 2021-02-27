@@ -102,8 +102,15 @@ Proxy-Aware PowerShell Communications: https://powershell.org/forums/topic/set-d
 
 PowerShell Proxy with Authentication: https://medium.com/river-yang/powershell-working-behind-a-proxy-with-authentication-eb68a337f222
 
+JScript Execution: https://docs.microsoft.com/en-us/previous-versions/windows/desktop/indexsrv/running-a-jscript-query
 
+JScript Basic Dropper: https://github.com/hlldz/SpookFlare
 
+Payload Creation and Obfuscation: https://github.com/tyranid/DotNetToJScript
+
+SharpShooter: https://github.com/mdsecactivebreach/SharpShooter
+
+## Process-Injection-and-Migration
 
 
 
