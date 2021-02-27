@@ -120,7 +120,8 @@ https://rastamouse.me/blog/process-injection-dinvoke/
 DLL Injection: 
 
 http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html
-https://medium.com/bug-bounty-hunting/dll-injection-attacks-in-a-nutshell-71bc84ac59bd
+
+\https://medium.com/bug-bounty-hunting/dll-injection-attacks-in-a-nutshell-71bc84ac59bd
 
 
 Reflective DLL Injection: https://github.com/stephenfewer/ReflectiveDLLInjection
