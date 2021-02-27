@@ -1,6 +1,22 @@
 # Prior knowledge for OSEP
 
-This is a repository of notes and material that I consider necessary in advance to opt for the course and the OSEP certification (Techniques of Evasion and Breaching Defenses)
+This is a repository of notes and material that I consider necessary in advance to opt for the course and the OSEP certification (Techniques of Evasion and 
+Breaching Defenses)
+
+
+This compilation of material is very much influenced by the nullgore and more!
+
+
+             ########    #####   ########    #####   ##     ##         ##     ## ##     ## 
+             ##     ##  ##   ##  ##     ##  ##   ##   ##   ##           ##   ##   ##   ##  
+             ##     ## ##     ## ##     ## ##     ##   ## ##             ## ##     ## ##   
+             ########  ##     ## ########  ##     ##    ###               ###       ###    
+             ##   ##   ##     ## ##   ##   ##     ##   ## ##             ## ##     ## ##   
+             ##    ##   ##   ##  ##    ##   ##   ##   ##   ##           ##   ##   ##   ##  
+             ##     ##   #####   ##     ##   #####   ##     ## ####### ##     ## ##     ## 
+             
+             
+             
 
 
 ## Contents
