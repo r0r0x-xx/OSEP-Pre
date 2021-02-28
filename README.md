@@ -4,7 +4,7 @@ This is a repository of notes and material that I consider necessary in advance 
 Breaching Defenses)
 
 
-This compilation of material is very much influenced by nullgore (GIT) and more!
+This compilation of material is very much influenced by nullg0re (GIT) and more!
 
 
              ########    #####   ########    #####   ##     ##  
