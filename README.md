@@ -281,3 +281,16 @@ https://www.harmj0y.net/blog/redteaming/not-a-security-boundary-breaking-forest-
 https://adsecurity.org/?p=1588
 
 https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+
+https://book.hacktricks.xyz/windows/active-directory-methodology/acl-persistence-abuse
+
+##Tools & Scripts:
+
+BloodHoundL: https://github.com/BloodHoundAD/BloodHound
+
+CrackMapExec: https://github.com/byt3bl33d3r/CrackMapExec
+
+JAWS: https://github.com/411Hall/JAWS
+
+Linux priv checker: https://github.com/sleventyeleven/linuxprivchecker
+
